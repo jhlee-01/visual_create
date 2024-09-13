@@ -12,8 +12,8 @@ namespace WindowsFormsApp111
 {
     public partial class Form1 : Form
     {
-        int a;
-        int d;
+        int nDelete;
+    
 
 
         public Form1()
